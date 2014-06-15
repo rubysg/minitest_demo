@@ -15,6 +15,7 @@ class CalcTest < MiniTest::Unit::TestCase
   end
 
   def test_add_2_and_2
+    calc = Calc.new
     sum = calc.add(2,2)
     assert_equal 4, sum
   end
