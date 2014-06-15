@@ -2,7 +2,7 @@
 
 ## Minitest Demo Template
 
-A simple, one file, template for demo'ing Test Driven Development with the Minitest testing framework. Used in introduction to Ruby Pair Programming sessions.
+A template for demonstrating Test Driven Development of a simple calculator using Minitest. As used in introduction to Ruby Pair Programming sessions.
 
 ## How to Use the Template
 
