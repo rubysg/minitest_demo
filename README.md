@@ -14,11 +14,11 @@ go into the new app directory
 
   	cd minitest_demo
 
-###Writing Examples and Code
+### Writing Examples and Code
 
 Write your examples and code in the demo.rb file
 
-###Running Your Examples
+### Running Your Examples
 
   	ruby demo.rb
 
